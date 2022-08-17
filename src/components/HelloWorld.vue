@@ -34,12 +34,12 @@ const count = ref(0)
         一直想有一个属于自己的网站，存放自己的学习笔记，记录生活中的点点滴滴，伴随着我的成长
         <br>于是，我的代码之旅从此开始...<br><br>
         <br>由于时间有限，笔记还只是冰山一角，会在今后补充！<br><br>
-        <div align="right">
-<!--          printf("Helloworld\n");-->
-          <br>
-        </div>
+<!--        <div align="right">-->
+<!--&lt;!&ndash;          printf("Helloworld\n");&ndash;&gt;-->
+<!--&lt;!&ndash;          <br>&ndash;&gt;-->
+<!--        </div>-->
       </div>
-      <div class="text_en">Posted on 2022</div>
+<!--      <div class="text_en">Posted on 2022</div>-->
     </div>
 
   </div>
