@@ -5,8 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-
-  <HelloWorld style="width: 100%" msg="Vite + Vue" />
+  <HelloWorld style="width: 100%" msg="雾里寻径" />
 </template>
 
 <style scoped>

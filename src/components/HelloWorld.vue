@@ -13,7 +13,7 @@ const count = ref(0)
 
   <div class="head fix">
     <div class="t1 fix">
-      <div class="tl"><a href="" target="_self">Hello | World</a></div>
+<!--      <div class="tl"><a href="" target="_self">Hello | World</a></div>-->
       <!-- support.html -->
       <div class="tr">
         <ul class="ur">
@@ -29,24 +29,23 @@ const count = ref(0)
   </div>
   <div class="content">
     <div class="item">
-      <div class="text_en"><a>只要不失去你的崇高，整个世界都会为你敞开。 --原神</a></div>
+      <div class="text_en"><a>只要不失去你的崇高，整个世界都会为你敞开。</a></div>
       <div class="text_en">
         一直想有一个属于自己的网站，存放自己的学习笔记，记录生活中的点点滴滴，伴随着我的成长
         <br>于是，我的代码之旅从此开始...<br><br>
         <br>由于时间有限，笔记还只是冰山一角，会在今后补充！<br><br>
         <div align="right">
-          printf("Helloworld\n");
-          <br>zwz
+<!--          printf("Helloworld\n");-->
+          <br>
         </div>
       </div>
-      <div class="text_en">Posted on 2021</div>
+      <div class="text_en">Posted on 2022</div>
     </div>
 
   </div>
 
 
   <footer style="text-align:center;">
-    <h1>平顶山市网博联品贸易有限公司 </h1>
     <a href="https://beian.miit.gov.cn" rel="external nofollow" target="_blank">豫ICP备2022017315号-2</a>
   </footer>
 
