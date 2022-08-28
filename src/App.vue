@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <HelloWorld msg="雾里寻径" />
+  <HelloWorld msg="笔记" />
 </template>
 
 <style scoped>

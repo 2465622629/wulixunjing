@@ -23,7 +23,7 @@ const count = ref(0)
     </div>
 
     <div class="tt">
-      <div class="t2">雾里寻径</div>
+      <div class="t2">笔记</div>
       <div class="t3">记录生活中的点点滴滴</div>
     </div>
   </div>
